@@ -4,6 +4,6 @@ Greetings, Welcome here.
 Added function Feature2(){
 
 //Do something here to implement feature2.
-
+//Adding 1 line to enhance feature2
 }
 
